@@ -1,0 +1,7 @@
+# MAKE SURE TO RENAME THE FILE TO REMOVE THE TEMPLATE PRIOR TO ADDING YOUR KEYS#
+# IF NECESSARY GIT RM terraform.tfvars TO ENSURE YOU ARE NOT COMMITTING YOUR KEYS TO THE REPO#
+access_key = "<<ACCESS_KEY>>"
+secret_key = "<<SECRET_KEY>>"
+assume_role = "arn:aws:iam::<<ACCOUNT_NUMBER>>:role/@iac_deploy_role"
+zone_name = "<<ENV_TYPE>>.<<PROGRAM_KEY>>.<<BDU>>.bdu.hyland.dev" #ENVTYPE (Sandbox, Dev, QA, Etc) NO PRODUCTION WORKLOADS ARE ALLOWED IN CPE DELIVERY ORG
+region = "us-east-2"

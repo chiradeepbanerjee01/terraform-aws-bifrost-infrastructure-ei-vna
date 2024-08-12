@@ -1,0 +1,9 @@
+{
+    "CostCenter": "CC5409",
+    "CustomerName": "Hyland Software",
+    "EnvironmentType": "Sandbox",
+    "Owner": "CPEENBL",
+    "Platform": "AWS Delivery",
+    "Product": "Product",
+    "Instance": "Instance"
+  }

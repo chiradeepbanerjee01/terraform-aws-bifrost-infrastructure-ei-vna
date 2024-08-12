@@ -1,0 +1,3 @@
+#if you are using a .tfvars to provide credentials, insure this entry is in your .gitignore to prevent the keys from being stored in source control
+
+*.tfvars

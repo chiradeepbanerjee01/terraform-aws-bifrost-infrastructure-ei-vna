@@ -1,0 +1,9 @@
+{
+    "business:CostCenter": "CC5409",
+    "business:CustomerName": "Hyland Software",
+    "business:EnvironmentType": "Sandbox",
+    "Owner": "CPEENBL",
+    "business:Platform": "hidp",
+    "business:Product": "hidpplatforminstaller",
+    "Instance": "Instance"
+  }
